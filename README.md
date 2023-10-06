@@ -37,6 +37,10 @@ Our study involved a combination of primary and secondary research methods:
 ## Key Findings
 
 Our study revealed several key findings about the vegetable market in the Delhi/NCR region:
+- **Trend Analysis**:
+  <p align="center">
+  <img src="https://github.com/AyushSrivastava987/Vegetable_Market_Analysis/blob/main/Image/Trend%20Analysis.png" alt="KPI Banner" width="1000" />
+</p>
 
 - **Seasonal Variations**: The market experiences significant seasonal variations in vegetable prices and availability.
 
